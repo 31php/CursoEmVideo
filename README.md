@@ -2,4 +2,4 @@
  
  CursoDeGitEGitHub
 
-Criando repositórios via GitHub desktop!
+Criando repositórios via **GitHub desktop!**
