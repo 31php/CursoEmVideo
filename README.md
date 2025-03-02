@@ -9,3 +9,8 @@ e com isso, aprendendo a usar a __*linguagem*__ *Markdown*
 1. teste
 2. teste
 3. teste
+## listas com marcação
+* teste
+* teste
+     * teste
+     * teste
