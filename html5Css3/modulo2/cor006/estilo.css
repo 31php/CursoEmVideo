@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Gilda+Display&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+h1{
+    font-family: 'open sans', sans sarif;
+    font-size: 2em;
+    font-weight:bolder;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+p{
+    font-family: 'open sans', sans sarif;
+    font-size: 16px;
+    font-weight: lighter;
+    font-style: italic;
+}
+body{
+    background-image: linear-gradient(to right,black,red);
+}
+main{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 10px 10px 5px;
+}
